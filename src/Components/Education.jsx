@@ -6,7 +6,7 @@ const imageAltText = "Laptop screen Never Stop learning";
 
 const Education = () => {
   return (
-    <section className="light">
+    <section className="light" id="education">
       <h2 style={{ textAlign: "center" }}>Education</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
